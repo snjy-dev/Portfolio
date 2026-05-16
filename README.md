@@ -30,9 +30,7 @@ The portfolio is designed as an editorial-style digital experience rather than a
 
 * Inter
 * Alex Brush (Signature Fallback)
-* Figma
-* Canva
-* CapCut
+
 
 ---
 
@@ -85,7 +83,7 @@ A frontend interaction experiment inspired by vintage film systems, exploring ro
 ---
 
 <p align="center">
-  <img src="YOUR_LOGO_IMAGE_LINK" width="110" alt="SNJY">
+  <img src="https://i.ibb.co/rGCD87BS/image.png" width="110" alt="SNJY">
 </p>
 
 <p align="center">
